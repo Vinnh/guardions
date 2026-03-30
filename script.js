@@ -56,13 +56,13 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       title: "Episódio 02",
-      src: "assets/audio/ep-2.mp3",
+      src: "audios/ep-2.mp3",
       cover: "assets/ep-2.jpeg",
       duration: "30:38"
     },
     {
       title: "Episódio 03",
-      src: "assets/audio/ep-3.mp3",
+      src: "audios/ep-3.mp3",
       cover: "assets/ep-3.jpeg",
       duration: "23:54"
     }
